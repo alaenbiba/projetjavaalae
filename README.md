@@ -13,4 +13,4 @@ carte.
 La location est basée sur la durée et la date du visionnage, et le
 locataire est identifié par son nom, son prénom et son numéro de
 carte d'identité nationale.
-![Main](https://github.com/alaenbiba/projetjavaalae/assets/155073113/8d70939b-9f5a-4cb3-9c50-8046664b522e)
+![Main](https://github.com/alaenbiba/projetjavaalae/assets/155073113/78fc73f8-0444-40bd-ba52-edb1f73ac761)
